@@ -80,7 +80,10 @@ try:
         # Получение данных из строки-словаря, загрузки их в базу и агрегирование.
         def processing(self, row, dt):
             # Выделение из строки вложенного словаря.
-            passback_params = ast.literal_eval(row['passback_params'])
+            if isinstance(row['passback_params'], dict):
+                passback_params = ast.literal_eval(row['passback_params'])
+            else:
+                passback_params =dict()
 
             # Подготовка данных для загрузки в базу.
             self.user_id = row.get('lti_user_id')
