@@ -1,0 +1,129 @@
+2025-02-27 19:27:13,378 root INFO: Getting started with the program.
+2025-02-27 19:27:13,394 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 19:27:13,397 root INFO: Data for connection are loaded
+2025-02-27 19:27:14,410 root INFO: Database connection is completed successfully.
+2025-02-27 19:27:14,411 root INFO: Sending a request for data in the range from 2023-04-02 15:00:00 to 2023-04-02 16:00:00.
+2025-02-27 19:27:56,536 root INFO: The request was completed successfully.
+2025-02-27 19:27:57,585 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:27:57,586 root INFO: Sending a request for data in the range from 2023-04-02 16:00:00 to 2023-04-02 17:00:00.
+2025-02-27 19:28:42,150 root INFO: The request was completed successfully.
+2025-02-27 19:28:42,471 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:28:42,471 root INFO: Sending a request for data in the range from 2023-04-02 17:00:00 to 2023-04-02 18:00:00.
+2025-02-27 19:29:24,896 root INFO: The request was completed successfully.
+2025-02-27 19:29:25,730 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:29:25,731 root INFO: Sending a request for data in the range from 2023-04-02 18:00:00 to 2023-04-02 19:00:00.
+2025-02-27 19:30:07,441 root INFO: The request was completed successfully.
+2025-02-27 19:30:08,509 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:30:08,509 root INFO: Sending a request for data in the range from 2023-04-02 19:00:00 to 2023-04-02 20:00:00.
+2025-02-27 19:30:54,820 root INFO: The request was completed successfully.
+2025-02-27 19:30:56,037 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:30:56,037 root INFO: Sending a request for data in the range from 2023-04-02 20:00:00 to 2023-04-02 21:00:00.
+2025-02-27 19:31:39,703 root INFO: The request was completed successfully.
+2025-02-27 19:31:40,104 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:31:40,104 root INFO: Sending a request for data in the range from 2023-04-02 21:00:00 to 2023-04-02 22:00:00.
+2025-02-27 19:32:22,073 root INFO: The request was completed successfully.
+2025-02-27 19:32:22,236 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:32:22,236 root INFO: Sending a request for data in the range from 2023-04-02 22:00:00 to 2023-04-02 23:00:00.
+2025-02-27 19:33:07,022 root INFO: The request was completed successfully.
+2025-02-27 19:33:07,277 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:33:07,277 root INFO: Sending a request for data in the range from 2023-04-02 23:00:00 to 2023-04-03 00:00:00.
+2025-02-27 19:33:51,260 root INFO: The request was completed successfully.
+2025-02-27 19:33:51,300 root INFO: Data is successfully loaded into the database.
+2025-02-27 19:33:51,301 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-02-27 19:33:51,301 root INFO: Data has been aggregated successfully.
+2025-02-27 19:33:54,147 root INFO: Connection to Google Sheets is complete.
+2025-02-27 19:33:55,059 root INFO: Aggregated data written to Google Sheets successfully
+2025-02-27 19:33:56,395 root INFO: Email message sent.
+2025-02-27 20:32:23,366 root INFO: Getting started with the program.
+2025-02-27 20:32:23,371 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 20:32:23,371 root ERROR: Incorrect value of the "port" parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 226, in <module>
+    lp.check_params()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 162, in check_params
+    raise TypeError('Incorrect value of the "port" parameter.')
+TypeError: Incorrect value of the "port" parameter.
+2025-02-27 20:36:43,193 root INFO: Getting started with the program.
+2025-02-27 20:36:43,198 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 20:36:43,200 root INFO: Data for connection are loaded
+2025-02-27 20:36:43,503 root INFO: Database connection is completed successfully.
+2025-02-27 20:36:43,503 root INFO: Sending a request for data in the range from 2023-04-03 00:00:00 to 2023-04-03 00:30:00.
+2025-02-27 20:37:27,772 root INFO: The request was completed successfully.
+2025-02-27 20:37:27,846 root INFO: Data is successfully loaded into the database.
+2025-02-27 20:37:27,846 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-02-27 20:37:27,846 root INFO: Data has been aggregated successfully.
+2025-02-27 20:37:30,060 root INFO: Connection to Google Sheets is complete.
+2025-02-27 20:37:30,895 root INFO: Aggregated data written to Google Sheets successfully
+2025-02-27 20:37:32,033 root INFO: Email message sent.
+2025-02-27 20:39:10,536 root INFO: Getting started with the program.
+2025-02-27 20:39:10,541 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 20:39:10,542 root ERROR: Incorrect value of the "smtp_port" parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 226, in <module>
+    lp.check_params()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 166, in check_params
+    raise TypeError('Incorrect value of the "smtp_port" parameter.')
+TypeError: Incorrect value of the "smtp_port" parameter.
+2025-02-27 21:00:03,327 root INFO: Getting started with the program.
+2025-02-27 21:00:03,332 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:00:03,333 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 232, in <module>
+    raise TypeError(f'Incorrect value of the {flags[1]} parameter.')
+TypeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:00:11,686 root INFO: Getting started with the program.
+2025-02-27 21:00:11,690 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:00:11,691 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 232, in <module>
+    raise TypeError(f'Incorrect value of the {flags[1]} parameter.')
+TypeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:01:28,929 root INFO: Getting started with the program.
+2025-02-27 21:01:28,934 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:01:28,934 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 234, in <module>
+    raise TypeError(f'Incorrect value of the {flags[1]} parameter.')
+TypeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:07:10,342 root INFO: Getting started with the program.
+2025-02-27 21:07:10,346 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:07:10,347 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 234, in <module>
+    raise TypeError(f'Incorrect value of the {flags[1]} parameter.')
+TypeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:12:36,267 root INFO: Getting started with the program.
+2025-02-27 21:12:36,272 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:12:36,273 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 234, in <module>
+    raise TypeError(f'Incorrect value of the {flags[1]} parameter.')
+TypeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:22:54,492 root INFO: Getting started with the program.
+2025-02-27 21:22:54,497 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:22:54,497 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 233, in <module>
+    raise AttributeError(f'Incorrect value of the {flags[1]} parameter.')
+AttributeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:38:31,111 root INFO: Getting started with the program.
+2025-02-27 21:38:31,117 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:38:31,117 root ERROR: Incorrect value of the smtp_port parameter.
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\python_project_214.py", line 411, in <module>
+    raise AttributeError(f'Incorrect value of the {flags[1]} parameter.')
+AttributeError: Incorrect value of the smtp_port parameter.
+2025-02-27 21:39:25,026 root INFO: Getting started with the program.
+2025-02-27 21:39:25,030 root INFO: Устаревшие лог-файлы удалены.
+2025-02-27 21:39:25,031 root INFO: Data for connection are loaded
+2025-02-27 21:39:25,577 root INFO: Database connection is completed successfully.
+2025-02-27 21:39:25,577 root INFO: Sending a request for data in the range from 2023-04-03 00:00:00 to 2023-04-03 00:30:00.
+2025-02-27 21:40:13,915 root INFO: The request was completed successfully.
+2025-02-27 21:40:14,074 root INFO: Data is successfully loaded into the database.
+2025-02-27 21:40:14,075 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-02-27 21:40:14,075 root INFO: Data has been aggregated successfully.
+2025-02-27 21:40:16,871 root INFO: Connection to Google Sheets is complete.
+2025-02-27 21:40:17,705 root INFO: Aggregated data written to Google Sheets successfully
+2025-02-27 21:40:19,026 root INFO: Email message sent.
