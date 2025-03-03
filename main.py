@@ -3,7 +3,10 @@ from datetime import datetime, timedelta
 from glob import glob
 from email.message import EmailMessage
 from oauth2client.service_account import ServiceAccountCredentials
-from python_project_214_lib import DatabaseConnection, DataProcessing, LoadParams
+from load_params import LoadParams
+from database_connection import DatabaseConnection
+from data_processing import DataProcessing
+
 
 # Функция отправки сообщения по электронной почте.
 def send_email(message):
@@ -64,28 +67,28 @@ try:
         raise AttributeError(f'Incorrect value of the {flags[1]} parameter.')
 
     # Вводные данные для подключения к API обучающей системы.
-    API_URL = lp.api_url#configs['api_url']
-    CLIENT = lp.client#configs['client']
-    CLIENT_KEY = lp.client_key#configs['client_key']
-    START = datetime.strptime(lp.start, '%Y-%m-%d %H:%M:%S.%f')
-    END = datetime.strptime(lp.end, '%Y-%m-%d %H:%M:%S.%f')
+    API_URL = lp.configs['api_url']
+    CLIENT = lp.configs['client']
+    CLIENT_KEY = lp.configs['client_key']
+    START = datetime.strptime(lp.configs['start'], '%Y-%m-%d %H:%M:%S.%f')
+    END = datetime.strptime(lp.configs['end'], '%Y-%m-%d %H:%M:%S.%f')
     if START > END:
         raise ValueError(
             f'The start value of the period is later than the end value of the period: start = {START}, end = {END}.')
 
     # Вводные данные для подключения к базе данных.
-    DATABASE = lp.database
-    USER = lp.user
-    PASSWORD = lp.password
-    HOST = lp.host
-    PORT = lp.port
+    DATABASE = lp.configs['database']
+    USER = lp.configs['user']
+    PASSWORD = lp.configs['password']
+    HOST = lp.configs['host']
+    PORT = lp.configs['port']
 
     # Вводные данные для подключения к почтовому сервису.
-    SMTP_SERVER = lp.smtp_server
-    SMTP_PORT = lp.smtp_port
-    EMAIL_FROM = lp.email_from
-    EMAIL_PASSWORD =lp.email_password
-    EMAIL_TO = lp.email_to
+    SMTP_SERVER = lp.configs['smtp_server']
+    SMTP_PORT = lp.configs['smtp_port']
+    EMAIL_FROM = lp.configs['email_from']
+    EMAIL_PASSWORD =lp.configs['email_password']
+    EMAIL_TO = lp.configs['email_to']
     # Запись об успешной загрузке необходимых данных для подключений.
     logging.info('Data for connection are loaded')
     message += '\nData for connection are loaded'
@@ -117,7 +120,22 @@ try:
 
         # Обработка полученных данных.
         for row in responce.json():
-            process.processing(row, dt)
+            process.processing(row)#, dt)
+            query = '''
+                insert into grades(
+                    user_id,
+                    oauth_consumer_key,
+                    lis_result_sourcedid,
+                    lis_outcome_service_url,
+                    is_correct,
+                    attempt_type,
+                    created_at
+                            )
+                            values(%s, %s, %s, %s, %s, %s, %s)
+                    '''
+            # Запись данных в базу в соответствии с запросом.
+            dt.post(query, process.values)
+
         # Запись об успешной загрузке данных за временной интервал в базу.
         logging.info('Data is successfully loaded into the database.')
         # Переход к новому временному интервалу.
@@ -184,5 +202,3 @@ except Exception as err:
             '''
     send_email(message)
     logging.info('Email message sent.')
-
-

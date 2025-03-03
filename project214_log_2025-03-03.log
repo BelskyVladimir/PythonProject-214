@@ -1,0 +1,98 @@
+2025-03-03 20:39:03,442 root INFO: Getting started with the program.
+2025-03-03 20:39:03,448 root INFO: Obsolete log files have been removed.
+2025-03-03 20:39:03,450 root INFO: Data for connection are loaded
+2025-03-03 20:39:04,043 root INFO: Database connection is completed successfully.
+2025-03-03 20:39:04,043 root INFO: Sending a request for data in the range from 2023-04-03 00:00:00 to 2023-04-03 00:10:00.
+2025-03-03 20:39:52,349 root INFO: The request was completed successfully.
+2025-03-03 20:39:53,105 root INFO: Data is successfully loaded into the database.
+2025-03-03 20:39:53,106 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-03-03 20:39:53,106 root INFO: Data has been aggregated successfully.
+2025-03-03 20:39:55,212 root INFO: Connection to Google Sheets is complete.
+2025-03-03 20:39:56,176 root INFO: Aggregated data written to Google Sheets successfully
+2025-03-03 20:39:57,285 root INFO: Email message sent.
+2025-03-03 20:42:38,539 root INFO: Getting started with the program.
+2025-03-03 20:42:38,545 root INFO: Obsolete log files have been removed.
+2025-03-03 20:42:38,546 root INFO: Data for connection are loaded
+2025-03-03 20:42:39,008 root INFO: Database connection is completed successfully.
+2025-03-03 20:42:39,009 root INFO: Sending a request for data in the range from 2023-04-03 00:00:00 to 2023-04-03 00:10:00.
+2025-03-03 20:43:27,977 root INFO: The request was completed successfully.
+2025-03-03 20:43:28,371 root INFO: Data is successfully loaded into the database.
+2025-03-03 20:43:28,371 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-03-03 20:43:28,371 root INFO: Data has been aggregated successfully.
+2025-03-03 20:43:30,081 root INFO: Connection to Google Sheets is complete.
+2025-03-03 20:43:30,969 root INFO: Aggregated data written to Google Sheets successfully
+2025-03-03 20:43:31,973 root INFO: Email message sent.
+2025-03-03 20:46:29,440 root INFO: Getting started with the program.
+2025-03-03 20:46:29,447 root INFO: Obsolete log files have been removed.
+2025-03-03 20:46:29,448 root INFO: Data for connection are loaded
+2025-03-03 20:46:29,534 root INFO: Database connection is completed successfully.
+2025-03-03 20:46:29,534 root INFO: Sending a request for data in the range from 2023-04-03 00:00:00 to 2023-04-03 00:10:00.
+2025-03-03 20:47:16,483 root INFO: The request was completed successfully.
+2025-03-03 20:47:16,519 root INFO: Data is successfully loaded into the database.
+2025-03-03 20:47:16,519 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-03-03 20:47:16,519 root INFO: Data has been aggregated successfully.
+2025-03-03 20:47:18,362 root INFO: Connection to Google Sheets is complete.
+2025-03-03 20:47:19,210 root INFO: Aggregated data written to Google Sheets successfully
+2025-03-03 20:47:20,304 root INFO: Email message sent.
+2025-03-03 21:10:56,964 root INFO: Getting started with the program.
+2025-03-03 21:10:56,968 root INFO: Obsolete log files have been removed.
+2025-03-03 21:10:56,969 root ERROR: 'stop'
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\main.py", line 65, in <module>
+    flags = lp.check_params()
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\load_params.py", line 47, in check_params
+    if not re.match(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{6}', self.configs[key]):
+                                                                   ~~~~~~~~~~~~^^^^^
+KeyError: 'stop'
+2025-03-03 21:15:08,468 root INFO: Getting started with the program.
+2025-03-03 21:15:08,472 root INFO: Obsolete log files have been removed.
+2025-03-03 21:15:08,473 root ERROR: name 'configs' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\main.py", line 65, in <module>
+    flags = lp.check_params()
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\load_params.py", line 34, in check_params
+    print(key, configs[key])
+               ^^^^^^^
+NameError: name 'configs' is not defined. Did you mean: 'self.configs'?
+2025-03-03 21:15:58,653 root INFO: Getting started with the program.
+2025-03-03 21:15:58,658 root INFO: Obsolete log files have been removed.
+2025-03-03 21:15:58,658 root ERROR: name 'configs' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\main.py", line 65, in <module>
+    flags = lp.check_params()
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\load_params.py", line 40, in check_params
+    print(key, configs[key])
+               ^^^^^^^
+NameError: name 'configs' is not defined. Did you mean: 'self.configs'?
+2025-03-03 21:16:46,077 root INFO: Getting started with the program.
+2025-03-03 21:16:46,082 root INFO: Obsolete log files have been removed.
+2025-03-03 21:16:46,082 root ERROR: name 'configs' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\main.py", line 65, in <module>
+    flags = lp.check_params()
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\load_params.py", line 41, in check_params
+    print(key, configs[key])
+               ^^^^^^^
+NameError: name 'configs' is not defined. Did you mean: 'self.configs'?
+2025-03-03 22:05:11,657 root INFO: Getting started with the program.
+2025-03-03 22:05:11,662 root INFO: Obsolete log files have been removed.
+2025-03-03 22:05:11,664 root ERROR: 'stop'
+Traceback (most recent call last):
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\main.py", line 65, in <module>
+    flags = lp.check_params()
+  File "C:\Users\Владимир\PycharmProjects\pythonProject1\load_params.py", line 50, in check_params
+    if not re.match(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{6}', self.configs[key]):
+                                                                   ~~~~~~~~~~~~^^^^^
+KeyError: 'stop'
+2025-03-03 22:06:38,880 root INFO: Getting started with the program.
+2025-03-03 22:06:38,885 root INFO: Obsolete log files have been removed.
+2025-03-03 22:06:38,887 root INFO: Data for connection are loaded
+2025-03-03 22:06:39,426 root INFO: Database connection is completed successfully.
+2025-03-03 22:06:39,426 root INFO: Sending a request for data in the range from 2023-04-03 00:00:00 to 2023-04-03 00:10:00.
+2025-03-03 22:07:21,890 root INFO: The request was completed successfully.
+2025-03-03 22:07:22,332 root INFO: Data is successfully loaded into the database.
+2025-03-03 22:07:22,332 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-03-03 22:07:22,332 root INFO: Data has been aggregated successfully.
+2025-03-03 22:07:25,069 root INFO: Connection to Google Sheets is complete.
+2025-03-03 22:07:25,302 root INFO: Aggregated data written to Google Sheets successfully
+2025-03-03 22:07:26,292 root INFO: Email message sent.
