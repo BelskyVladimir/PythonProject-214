@@ -11,9 +11,7 @@ class LoadParams:
     def check_params(self):
         # Проверка загруженных данных на соответствие необходимым типам и допустимость значений.
         for key, value in self.configs.items():
-            #print(key, value)
             if 'port' in key:
-                print(key, value)
                 if not isinstance(value, int):
                     return (False, key)
                 if not (value >= 1 and value <= 65535):
@@ -22,7 +20,6 @@ class LoadParams:
                 print(key, value)
                 if not isinstance(value, str):
                     return (False, key)
-            print('OK')
 
         # Проверка введенного значения параметра api_url на соответствие шаблону.
         if not re.match(r'https://.+\..+', self.configs['api_url']):
