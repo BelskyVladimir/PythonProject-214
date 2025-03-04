@@ -17,7 +17,6 @@ class LoadParams:
                 if not (value >= 1 and value <= 65535):
                     return (False, key)
             else:
-                print(key, value)
                 if not isinstance(value, str):
                     return (False, key)
 

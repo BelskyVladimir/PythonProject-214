@@ -170,8 +170,8 @@ try:
                             process.n_all_per_hour, process.n_submit_per_hour,
                             process.n_correct_per_hour, process.n_all_per_id_uniq,
                             process.n_submit_per_id_uniq, process.n_correct_per_id_uniq])
-    logging.info('Aggregated data written to Google Sheets successfully')
-    message += '\nAggregated data written to Google Sheets successfully'
+    logging.info('Aggregated data written to Google Sheets successfully.')
+    message += '\nAggregated data written to Google Sheets successfully.'
 
     # Отправка информационного сообщения по электронной почте.
     message += f'''

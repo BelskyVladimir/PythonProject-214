@@ -1,0 +1,203 @@
+2025-03-04 18:50:29,306 root INFO: Getting started with the program.
+2025-03-04 18:50:29,313 root INFO: Obsolete log files have been removed.
+2025-03-04 18:50:29,315 root INFO: Data for connection are loaded
+2025-03-04 18:50:29,404 root INFO: Database connection is completed successfully.
+2025-03-04 18:50:29,404 root INFO: Sending a request for data in the range from 2023-04-01 00:00:00 to 2023-04-01 01:00:00.
+2025-03-04 18:51:14,471 root INFO: The request was completed successfully.
+2025-03-04 18:51:14,954 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:51:14,955 root INFO: Sending a request for data in the range from 2023-04-01 01:00:00 to 2023-04-01 02:00:00.
+2025-03-04 18:52:01,466 root INFO: The request was completed successfully.
+2025-03-04 18:52:01,490 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:52:01,491 root INFO: Sending a request for data in the range from 2023-04-01 02:00:00 to 2023-04-01 03:00:00.
+2025-03-04 18:52:48,431 root INFO: The request was completed successfully.
+2025-03-04 18:52:48,447 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:52:48,447 root INFO: Sending a request for data in the range from 2023-04-01 03:00:00 to 2023-04-01 04:00:00.
+2025-03-04 18:53:38,333 root INFO: The request was completed successfully.
+2025-03-04 18:53:38,342 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:53:38,342 root INFO: Sending a request for data in the range from 2023-04-01 04:00:00 to 2023-04-01 05:00:00.
+2025-03-04 18:54:22,675 root INFO: The request was completed successfully.
+2025-03-04 18:54:22,691 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:54:22,691 root INFO: Sending a request for data in the range from 2023-04-01 05:00:00 to 2023-04-01 06:00:00.
+2025-03-04 18:55:12,701 root INFO: The request was completed successfully.
+2025-03-04 18:55:12,772 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:55:12,772 root INFO: Sending a request for data in the range from 2023-04-01 06:00:00 to 2023-04-01 07:00:00.
+2025-03-04 18:55:58,225 root INFO: The request was completed successfully.
+2025-03-04 18:55:58,367 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:55:58,367 root INFO: Sending a request for data in the range from 2023-04-01 07:00:00 to 2023-04-01 08:00:00.
+2025-03-04 18:56:42,426 root INFO: The request was completed successfully.
+2025-03-04 18:56:42,651 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:56:42,651 root INFO: Sending a request for data in the range from 2023-04-01 08:00:00 to 2023-04-01 09:00:00.
+2025-03-04 18:57:27,150 root INFO: The request was completed successfully.
+2025-03-04 18:57:27,458 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:57:27,458 root INFO: Sending a request for data in the range from 2023-04-01 09:00:00 to 2023-04-01 10:00:00.
+2025-03-04 18:58:13,705 root INFO: The request was completed successfully.
+2025-03-04 18:58:13,972 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:58:13,973 root INFO: Sending a request for data in the range from 2023-04-01 10:00:00 to 2023-04-01 11:00:00.
+2025-03-04 18:58:59,056 root INFO: The request was completed successfully.
+2025-03-04 18:58:59,735 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:58:59,735 root INFO: Sending a request for data in the range from 2023-04-01 11:00:00 to 2023-04-01 12:00:00.
+2025-03-04 18:59:44,083 root INFO: The request was completed successfully.
+2025-03-04 18:59:44,617 root INFO: Data is successfully loaded into the database.
+2025-03-04 18:59:44,617 root INFO: Sending a request for data in the range from 2023-04-01 12:00:00 to 2023-04-01 13:00:00.
+2025-03-04 19:24:40,234 root INFO: Getting started with the program.
+2025-03-04 19:24:40,239 root INFO: Obsolete log files have been removed.
+2025-03-04 19:24:40,241 root INFO: Data for connection are loaded
+2025-03-04 19:24:40,731 root INFO: Database connection is completed successfully.
+2025-03-04 19:24:40,732 root INFO: Sending a request for data in the range from 2023-04-01 00:00:00 to 2023-04-01 01:00:00.
+2025-03-04 19:25:28,763 root INFO: The request was completed successfully.
+2025-03-04 19:25:29,327 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:25:29,327 root INFO: Sending a request for data in the range from 2023-04-01 01:00:00 to 2023-04-01 02:00:00.
+2025-03-04 19:26:16,943 root INFO: The request was completed successfully.
+2025-03-04 19:26:16,967 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:26:16,967 root INFO: Sending a request for data in the range from 2023-04-01 02:00:00 to 2023-04-01 03:00:00.
+2025-03-04 19:27:06,331 root INFO: The request was completed successfully.
+2025-03-04 19:27:06,353 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:27:06,353 root INFO: Sending a request for data in the range from 2023-04-01 03:00:00 to 2023-04-01 04:00:00.
+2025-03-04 19:28:03,643 root INFO: The request was completed successfully.
+2025-03-04 19:28:03,652 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:28:03,653 root INFO: Sending a request for data in the range from 2023-04-01 04:00:00 to 2023-04-01 05:00:00.
+2025-03-04 19:28:48,187 root INFO: The request was completed successfully.
+2025-03-04 19:28:48,203 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:28:48,203 root INFO: Sending a request for data in the range from 2023-04-01 05:00:00 to 2023-04-01 06:00:00.
+2025-03-04 19:29:39,288 root INFO: The request was completed successfully.
+2025-03-04 19:29:39,341 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:29:39,341 root INFO: Sending a request for data in the range from 2023-04-01 06:00:00 to 2023-04-01 07:00:00.
+2025-03-04 19:30:27,518 root INFO: The request was completed successfully.
+2025-03-04 19:30:27,721 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:30:27,721 root INFO: Sending a request for data in the range from 2023-04-01 07:00:00 to 2023-04-01 08:00:00.
+2025-03-04 19:31:13,794 root INFO: The request was completed successfully.
+2025-03-04 19:31:14,011 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:31:14,011 root INFO: Sending a request for data in the range from 2023-04-01 08:00:00 to 2023-04-01 09:00:00.
+2025-03-04 19:32:03,258 root INFO: The request was completed successfully.
+2025-03-04 19:32:04,022 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:32:04,022 root INFO: Sending a request for data in the range from 2023-04-01 09:00:00 to 2023-04-01 10:00:00.
+2025-03-04 19:32:48,945 root INFO: The request was completed successfully.
+2025-03-04 19:32:49,203 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:32:49,204 root INFO: Sending a request for data in the range from 2023-04-01 10:00:00 to 2023-04-01 11:00:00.
+2025-03-04 19:33:34,227 root INFO: The request was completed successfully.
+2025-03-04 19:33:34,509 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:33:34,509 root INFO: Sending a request for data in the range from 2023-04-01 11:00:00 to 2023-04-01 12:00:00.
+2025-03-04 19:34:20,305 root INFO: The request was completed successfully.
+2025-03-04 19:34:21,258 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:34:21,258 root INFO: Sending a request for data in the range from 2023-04-01 12:00:00 to 2023-04-01 13:00:00.
+2025-03-04 19:35:05,581 root INFO: The request was completed successfully.
+2025-03-04 19:35:05,951 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:35:05,951 root INFO: Sending a request for data in the range from 2023-04-01 13:00:00 to 2023-04-01 14:00:00.
+2025-03-04 19:35:50,484 root INFO: The request was completed successfully.
+2025-03-04 19:35:50,757 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:35:50,757 root INFO: Sending a request for data in the range from 2023-04-01 14:00:00 to 2023-04-01 15:00:00.
+2025-03-04 19:36:35,770 root INFO: The request was completed successfully.
+2025-03-04 19:36:36,032 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:36:36,032 root INFO: Sending a request for data in the range from 2023-04-01 15:00:00 to 2023-04-01 16:00:00.
+2025-03-04 19:37:20,136 root INFO: The request was completed successfully.
+2025-03-04 19:37:20,929 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:37:20,929 root INFO: Sending a request for data in the range from 2023-04-01 16:00:00 to 2023-04-01 17:00:00.
+2025-03-04 19:38:05,454 root INFO: The request was completed successfully.
+2025-03-04 19:38:05,941 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:38:05,941 root INFO: Sending a request for data in the range from 2023-04-01 17:00:00 to 2023-04-01 18:00:00.
+2025-03-04 19:38:48,650 root INFO: The request was completed successfully.
+2025-03-04 19:38:49,100 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:38:49,100 root INFO: Sending a request for data in the range from 2023-04-01 18:00:00 to 2023-04-01 19:00:00.
+2025-03-04 19:39:32,616 root INFO: The request was completed successfully.
+2025-03-04 19:39:33,212 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:39:33,212 root INFO: Sending a request for data in the range from 2023-04-01 19:00:00 to 2023-04-01 20:00:00.
+2025-03-04 19:40:19,628 root INFO: The request was completed successfully.
+2025-03-04 19:40:20,009 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:40:20,009 root INFO: Sending a request for data in the range from 2023-04-01 20:00:00 to 2023-04-01 21:00:00.
+2025-03-04 19:41:05,418 root INFO: The request was completed successfully.
+2025-03-04 19:41:06,133 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:41:06,133 root INFO: Sending a request for data in the range from 2023-04-01 21:00:00 to 2023-04-01 22:00:00.
+2025-03-04 19:41:50,030 root INFO: The request was completed successfully.
+2025-03-04 19:41:50,393 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:41:50,393 root INFO: Sending a request for data in the range from 2023-04-01 22:00:00 to 2023-04-01 23:00:00.
+2025-03-04 19:42:39,834 root INFO: The request was completed successfully.
+2025-03-04 19:42:40,013 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:42:40,013 root INFO: Sending a request for data in the range from 2023-04-01 23:00:00 to 2023-04-02 00:00:00.
+2025-03-04 19:43:25,134 root INFO: The request was completed successfully.
+2025-03-04 19:43:25,223 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:43:25,223 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-03-04 19:43:25,223 root INFO: Data has been aggregated successfully.
+2025-03-04 19:43:27,738 root INFO: Connection to Google Sheets is complete.
+2025-03-04 19:43:28,626 root INFO: Aggregated data written to Google Sheets successfully.
+2025-03-04 19:43:29,583 root INFO: Email message sent.
+2025-03-04 19:47:14,735 root INFO: Getting started with the program.
+2025-03-04 19:47:14,740 root INFO: Obsolete log files have been removed.
+2025-03-04 19:47:14,742 root INFO: Data for connection are loaded
+2025-03-04 19:47:14,875 root INFO: Database connection is completed successfully.
+2025-03-04 19:47:14,875 root INFO: Sending a request for data in the range from 2023-04-02 00:00:00 to 2023-04-02 01:00:00.
+2025-03-04 19:47:57,171 root INFO: The request was completed successfully.
+2025-03-04 19:47:57,189 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:47:57,190 root INFO: Sending a request for data in the range from 2023-04-02 01:00:00 to 2023-04-02 02:00:00.
+2025-03-04 19:48:43,887 root INFO: The request was completed successfully.
+2025-03-04 19:48:43,961 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:48:43,961 root INFO: Sending a request for data in the range from 2023-04-02 02:00:00 to 2023-04-02 03:00:00.
+2025-03-04 19:49:28,789 root INFO: The request was completed successfully.
+2025-03-04 19:49:28,816 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:49:28,816 root INFO: Sending a request for data in the range from 2023-04-02 03:00:00 to 2023-04-02 04:00:00.
+2025-03-04 19:50:16,132 root INFO: The request was completed successfully.
+2025-03-04 19:50:16,182 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:50:16,182 root INFO: Sending a request for data in the range from 2023-04-02 04:00:00 to 2023-04-02 05:00:00.
+2025-03-04 19:51:01,536 root INFO: The request was completed successfully.
+2025-03-04 19:51:01,632 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:51:01,633 root INFO: Sending a request for data in the range from 2023-04-02 05:00:00 to 2023-04-02 06:00:00.
+2025-03-04 19:51:51,389 root INFO: The request was completed successfully.
+2025-03-04 19:51:51,553 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:51:51,553 root INFO: Sending a request for data in the range from 2023-04-02 06:00:00 to 2023-04-02 07:00:00.
+2025-03-04 19:52:40,259 root INFO: The request was completed successfully.
+2025-03-04 19:52:40,469 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:52:40,469 root INFO: Sending a request for data in the range from 2023-04-02 07:00:00 to 2023-04-02 08:00:00.
+2025-03-04 19:53:24,821 root INFO: The request was completed successfully.
+2025-03-04 19:53:25,154 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:53:25,154 root INFO: Sending a request for data in the range from 2023-04-02 08:00:00 to 2023-04-02 09:00:00.
+2025-03-04 19:54:08,082 root INFO: The request was completed successfully.
+2025-03-04 19:54:08,492 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:54:08,492 root INFO: Sending a request for data in the range from 2023-04-02 09:00:00 to 2023-04-02 10:00:00.
+2025-03-04 19:54:49,606 root INFO: The request was completed successfully.
+2025-03-04 19:54:50,110 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:54:50,110 root INFO: Sending a request for data in the range from 2023-04-02 10:00:00 to 2023-04-02 11:00:00.
+2025-03-04 19:55:38,881 root INFO: The request was completed successfully.
+2025-03-04 19:55:39,251 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:55:39,251 root INFO: Sending a request for data in the range from 2023-04-02 11:00:00 to 2023-04-02 12:00:00.
+2025-03-04 19:56:26,212 root INFO: The request was completed successfully.
+2025-03-04 19:56:26,568 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:56:26,568 root INFO: Sending a request for data in the range from 2023-04-02 12:00:00 to 2023-04-02 13:00:00.
+2025-03-04 19:57:13,256 root INFO: The request was completed successfully.
+2025-03-04 19:57:13,923 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:57:13,923 root INFO: Sending a request for data in the range from 2023-04-02 13:00:00 to 2023-04-02 14:00:00.
+2025-03-04 19:58:00,767 root INFO: The request was completed successfully.
+2025-03-04 19:58:01,430 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:58:01,431 root INFO: Sending a request for data in the range from 2023-04-02 14:00:00 to 2023-04-02 15:00:00.
+2025-03-04 19:58:46,137 root INFO: The request was completed successfully.
+2025-03-04 19:58:46,659 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:58:46,659 root INFO: Sending a request for data in the range from 2023-04-02 15:00:00 to 2023-04-02 16:00:00.
+2025-03-04 19:59:36,059 root INFO: The request was completed successfully.
+2025-03-04 19:59:36,872 root INFO: Data is successfully loaded into the database.
+2025-03-04 19:59:36,872 root INFO: Sending a request for data in the range from 2023-04-02 16:00:00 to 2023-04-02 17:00:00.
+2025-03-04 20:00:32,338 root INFO: The request was completed successfully.
+2025-03-04 20:00:32,869 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:00:32,870 root INFO: Sending a request for data in the range from 2023-04-02 17:00:00 to 2023-04-02 18:00:00.
+2025-03-04 20:01:29,959 root INFO: The request was completed successfully.
+2025-03-04 20:01:30,568 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:01:30,568 root INFO: Sending a request for data in the range from 2023-04-02 18:00:00 to 2023-04-02 19:00:00.
+2025-03-04 20:02:18,787 root INFO: The request was completed successfully.
+2025-03-04 20:02:19,197 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:02:19,198 root INFO: Sending a request for data in the range from 2023-04-02 19:00:00 to 2023-04-02 20:00:00.
+2025-03-04 20:03:05,710 root INFO: The request was completed successfully.
+2025-03-04 20:03:05,984 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:03:05,984 root INFO: Sending a request for data in the range from 2023-04-02 20:00:00 to 2023-04-02 21:00:00.
+2025-03-04 20:03:52,325 root INFO: The request was completed successfully.
+2025-03-04 20:03:52,567 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:03:52,567 root INFO: Sending a request for data in the range from 2023-04-02 21:00:00 to 2023-04-02 22:00:00.
+2025-03-04 20:04:39,943 root INFO: The request was completed successfully.
+2025-03-04 20:04:40,072 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:04:40,072 root INFO: Sending a request for data in the range from 2023-04-02 22:00:00 to 2023-04-02 23:00:00.
+2025-03-04 20:05:27,474 root INFO: The request was completed successfully.
+2025-03-04 20:05:27,555 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:05:27,555 root INFO: Sending a request for data in the range from 2023-04-02 23:00:00 to 2023-04-03 00:00:00.
+2025-03-04 20:06:13,491 root INFO: The request was completed successfully.
+2025-03-04 20:06:13,534 root INFO: Data is successfully loaded into the database.
+2025-03-04 20:06:13,534 root INFO: All data for the selected period has been loaded into the database. The connection to the database was interrupted.
+2025-03-04 20:06:13,534 root INFO: Data has been aggregated successfully.
+2025-03-04 20:06:15,364 root INFO: Connection to Google Sheets is complete.
+2025-03-04 20:06:16,206 root INFO: Aggregated data written to Google Sheets successfully.
+2025-03-04 20:06:17,262 root INFO: Email message sent.
